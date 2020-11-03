@@ -139,3 +139,5 @@ const keyboard = {
 // })
 
 keyboard.init()
+
+console.log("hello world")
