@@ -141,3 +141,5 @@ const keyboard = {
 keyboard.init()
 
 console.log("hello world")
+console.log("little feature")
+console.log("little feature2")
